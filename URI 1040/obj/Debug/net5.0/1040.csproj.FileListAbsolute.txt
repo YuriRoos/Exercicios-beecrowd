@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.exe
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.deps.json
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.runtimeconfig.json
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.dll
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\ref\1040.dll
+C:\Users\Aluno\Desktop\recap\1040\bin\Debug\net5.0\1040.pdb
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.dll
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\ref\1040.dll
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.pdb
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\recap\1040\obj\Debug\net5.0\1040.csproj.AssemblyReference.cache
